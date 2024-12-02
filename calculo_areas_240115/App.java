@@ -7,8 +7,7 @@ public class App {
         Scanner scanner = new Scanner(System.in);
         int option;
         do {
-            System.out.println("Calculadora de Área - de Levi");
-            System.out.println("Selecciona una opcion:");
+            System.out.println("Calculadora de Área by Levi");
             System.out.println("1. Círculo");
             System.out.println("2. Cuadrado");
             System.out.println("3. Triángulo");
